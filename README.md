@@ -1,23 +1,17 @@
-SINH VIÊN: uu ngọc bình
+SINH VIÊN: Vu ngọc bình
 
 mssv:k205480106040
 
-Môn: lập trình python
+Môn: KHOA HỌC DỮ LIỆU
 
-WED Đề xuất phim anime cho người xem sử dụng PYTHON - FAST API
+Đề xuất phim anime cho người xem 
 
-1. Nguồn API
+Lấy dữ liệu craw về từ web myanimename.list
 
-- myanimename.list
-2. Cơ sở dữ liệu
-3. Module đọc dữ liệu
+Install các thư viện như pandas,numpy,sklearn
 
-- thự viện numpy, keras v.v.... 
-4. Node-red
+Hàm clear,tiền xử lý dữ liệu 
 
-- Xây dựng một chu trình trong Node-RED để tự động gọi API Python để lấy dữ liệu từ myanimenamelist.net, sau đó xử lý dữ liệu và ghi dữ liệu vào cơ sở dữ liệu.
-5. WEB 
+Sử dụng gg colad chạy file ipynb Hiện ra Đề xuất phim cho người xem phân loại theo tên và thể loại 
 
-- Xây dựng 1 web để hiển thị dữ liệu từ csdl đã thu thập
-- hiển thị các gợi ý, đánh giá theo các phân tích trước đó 
-- sử dụng các công nghệ như HTML,CSS,JavaScript để tạo giao diện web 
+
